@@ -42,7 +42,7 @@ The model is trained on `car_dealership_data_50.csv`, which includes features li
 
 ## 🔥 Deployment
 To deploy on **Streamlit Cloud**, ensure you have:
-- `requirements.txt` with dependencies.
+- `requirements.txt` with dependencies
 - The dataset (`car_dealership_data_50.csv`) included.
 - Streamlit account linked to your GitHub repository.
 
